@@ -1,24 +1,3 @@
-# vuecli03nestroutes
+Profile 组件中，有一个 下拉框，可以选择多个选项，采用了 elementui ， 需要引入
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+这个 demo 本来是想看 路由嵌套的，但是没做，只做了简单的路由配置
